@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Char
+- 👀 I’m interested in Front-end Development, Technical Writing, Music, Pro-Wrestling, MMA, Powerlifting, and Video Games
+- 🌱 I’m currently learning Nuxt.js and Svelte.js
